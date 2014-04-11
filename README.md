@@ -1,7 +1,7 @@
 gettingStartedWithDataViz
 =========================
 
-I'm currently working with a campaign called Classroom Struggle who is attempting to help reduce 
+I'm currently working with a campaign called Classroom Struggle, a group attempting to help reduce 
 class sizes of certain schools in the Oakland Unified School District. In addition, they are working
 to raise teachers' salaries (many of which are over ten thousand dollars less than those of neighboring
 schools), raise teacher retention (the vast majority of teachers leave within 5 years), and push the 
@@ -14,4 +14,4 @@ a visualization so people could quickly look and understand the staggering probl
 OUSD. Hopefully I'll be able to improve my abilities in data visualization enough so that I may have
 an impact on the campaign.
 
-- Jason
+-- Jason
