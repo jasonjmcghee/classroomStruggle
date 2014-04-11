@@ -1,0 +1,56 @@
+{
+  "name": "School Data 3",
+  "count": 6,
+  "frequency": "daily",
+  "version": 1,
+  "newdata": true,
+  "lastrunstatus": "success",
+  "lastsuccess": "Fri Apr 11 2014 10:15:40 GMT+0000 (UTC)",
+  "nextrun": "Sat Apr 12 2014 10:15:40 GMT+0000 (UTC)",
+  "results": {
+    "collection1": [
+      {
+        "School": {
+          "href": "http://www.ousd.k12.ca.us/Domain/1589",
+          "text": "SANKOFA ACADEMY"
+        },
+        "Address": "581 61st Street, 94609"
+      },
+      {
+        "School": {
+          "href": "http://www.ousd.k12.ca.us/site/Default.aspx?PageID=427",
+          "text": "SEQUOIA ELEMENTARY SCHOOL"
+        },
+        "Address": "3730 Lincoln Avenue, 94602"
+      },
+      {
+        "School": {
+          "href": "http://ousdes2.ousd.k12.ca.us/sobrantepark",
+          "text": "SOBRANTE PARK ELEMENTARY SCHOOL"
+        },
+        "Address": "470 El Paseo Drive, 94603"
+      },
+      {
+        "School": {
+          "href": "http://ousdhs.ousd.k12.ca.us/sojournertruth",
+          "text": "SOJOURNER TRUTH INDEPENDENT STUDY"
+        },
+        "Address": "8251 Fontaine Street, 94605"
+      },
+      {
+        "School": {
+          "href": "http://ousdes2.ousd.k12.ca.us/tcn",
+          "text": "THINK COLLEGE NOW ELEMENTARY SCHOOL"
+        },
+        "Address": "2825 International Boulevard, 94601"
+      },
+      {
+        "School": {
+          "href": "http://www.ousd.k12.ca.us/site/Default.aspx?PageID=434",
+          "text": "THORNHILL ELEMENTARY SCHOOL"
+        },
+        "Address": "5880 Thornhill Drive, 94611"
+      }
+    ]
+  }
+}

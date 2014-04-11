@@ -1,0 +1,189 @@
+{
+  "name": "OUSD Elementary and Address",
+  "count": 25,
+  "frequency": "monthly",
+  "version": 1,
+  "newdata": true,
+  "lastrunstatus": "success",
+  "lastsuccess": "Fri Apr 11 2014 09:52:34 GMT+0000 (UTC)",
+  "nextrun": "Thu May 01 2014 00:00:00 GMT+0000 (UTC)",
+  "results": {
+    "collection1": [
+      {
+        "School": {
+          "href": "http://www.acornwoodland.com/",
+          "text": "ACORN WOODLAND ELEMENTARY SCHOOL"
+        },
+        "Address": "1025 81st Avenue, 94621"
+      },
+      {
+        "School": {
+          "href": "http://www.ousd.k12.ca.us/site/Default.aspx?PageID=375",
+          "text": "ALLENDALE ELEMENTARY SCHOOL"
+        },
+        "Address": "3670 Penniman Avenue, 94619"
+      },
+      {
+        "School": {
+          "href": "http://ousdes1.ousd.k12.ca.us/ascend",
+          "text": "ASCEND ELEMENTARY SCHOOL"
+        },
+        "Address": "3709 East 12th Street, 94601"
+      },
+      {
+        "School": {
+          "href": "http://ousdes1.ousd.k12.ca.us/bellavista",
+          "text": "BELLA VISTA ELEMENTARY SCHOOL"
+        },
+        "Address": "1025 East 28th Street, 94606"
+      },
+      {
+        "School": {
+          "href": "http://www.bridgesatmelrose.org",
+          "text": "BRIDGES ACADEMY"
+        },
+        "Address": "1325 53rd Avenue , 94601"
+      },
+      {
+        "School": {
+          "href": "http://ousdes1.ousd.k12.ca.us/brookfield",
+          "text": "BROOKFIELD ELEMENTARY SCHOOL"
+        },
+        "Address": "401 Jones Avenue, 94603"
+      },
+      {
+        "School": {
+          "href": "http://ousdes1.ousd.k12.ca.us/burckhalter",
+          "text": "BURCKHALTER ELEMENTARY SCHOOL"
+        },
+        "Address": "3994 Burckhalter Avenue, 94605"
+      },
+      {
+        "School": {
+          "href": "http://www.ousd.k12.ca.us/site/Default.aspx?PageID=381",
+          "text": "CARL B. MUNCK ELEMENTARY SCHOOL"
+        },
+        "Address": "11900 Campus Drive, 94619"
+      },
+      {
+        "School": {
+          "href": "http://www.ousd.k12.ca.us/site/Default.aspx?PageID=382",
+          "text": "CHABOT ELEMENTARY SCHOOL"
+        },
+        "Address": "6686 Chabot Road, 94618"
+      },
+      {
+        "School": {
+          "href": "http://www.ousd.k12.ca.us/site/Default.aspx?PageID=383",
+          "text": "CLEVELAND ELEMENTARY SCHOOL"
+        },
+        "Address": "745 Cleveland Street, 94606"
+      },
+      {
+        "School": {
+          "href": "http://www.ousd.k12.ca.us/site/Default.aspx?PageID=384",
+          "text": "COMMUNITY UNITED ELEMENTARY SCHOOL"
+        },
+        "Address": "6701 International Boulevard, 94621"
+      },
+      {
+        "School": {
+          "href": "http://www.crockerschool.org/",
+          "text": "CROCKER HIGHLANDS ELEMENTARY SCHOOL"
+        },
+        "Address": "525 Midcrest Road, 94610"
+      },
+      {
+        "School": {
+          "href": "http://ousdes1.ousd.k12.ca.us/eop",
+          "text": "EAST OAKLAND PRIDE ELEMENTARY SCHOOL"
+        },
+        "Address": "8000 Birch Street, 94621"
+      },
+      {
+        "School": {
+          "href": "http://ousdes1.ousd.k12.ca.us/emerson",
+          "text": "EMERSON ELEMENTARY SCHOOL"
+        },
+        "Address": "4803 Lawton Avenue, 94609"
+      },
+      {
+        "School": {
+          "href": "http://www.ousd.k12.ca.us/site/Default.aspx?PageID=388",
+          "text": "ENCOMPASS ACADEMY"
+        },
+        "Address": "1025 81st Avenue, 94621"
+      },
+      {
+        "School": {
+          "href": "http://www.ousd.k12.ca.us/site/Default.aspx?PageID=389",
+          "text": "ESPERANZA"
+        },
+        "Address": "10315 E. Street, 94603"
+      },
+      {
+        "School": {
+          "href": "http://www.ousd.k12.ca.us/site/Default.aspx?PageID=397",
+          "text": "FRANKLIN ELEMENTARY SCHOOL"
+        },
+        "Address": "915 Foothill Boulevard, 94606"
+      },
+      {
+        "School": {
+          "href": "http://ousdes1.ousd.k12.ca.us/korematsu",
+          "text": "FRED T. KOREMATSU DISCOVERY ACADEMY"
+        },
+        "Address": "10315 E. Street, 94603"
+      },
+      {
+        "School": {
+          "href": "http://ousdes1.ousd.k12.ca.us/fruitvale",
+          "text": "FRUITVALE ELEMENTARY SCHOOL"
+        },
+        "Address": "3200 Boston Avenue, 94602"
+      },
+      {
+        "School": {
+          "href": "http://futurestoday.wordpress.com/",
+          "text": "FUTURES ELEMENTARY SCHOOL"
+        },
+        "Address": "6701 International Boulevard, 94621"
+      },
+      {
+        "School": {
+          "href": "http://www.ousd.k12.ca.us/site/Default.aspx?PageID=390",
+          "text": "GARFIELD ELEMENTARY SCHOOL"
+        },
+        "Address": "1640 22nd Avenue, 94606"
+      },
+      {
+        "School": {
+          "href": "http://www.glenviewelementary.org/",
+          "text": "GLENVIEW ELEMENTARY SCHOOL"
+        },
+        "Address": "4215 La Cresta Avenue, 94602"
+      },
+      {
+        "School": {
+          "href": "http://www.ousd.k12.ca.us/site/Default.aspx?PageID=392",
+          "text": "GLOBAL FAMILY SCHOOL"
+        },
+        "Address": "2035 40th Avenue, 94601"
+      },
+      {
+        "School": {
+          "href": "http://ousdes1.ousd.k12.ca.us/grassvalley",
+          "text": "GRASS VALLEY ELEMENTARY SCHOOL"
+        },
+        "Address": "4720 Dunkirk Avenue, 94605"
+      },
+      {
+        "School": {
+          "href": "http://ousdes1.ousd.k12.ca.us/greenleaf",
+          "text": "GREENLEAF ELEMENTARY SCHOOL"
+        },
+        "Address": "6328 East 17th Street, 94621"
+      }
+    ]
+  }
+}

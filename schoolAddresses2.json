@@ -1,0 +1,189 @@
+{
+  "name": "School Data 2",
+  "count": 25,
+  "frequency": "monthly",
+  "version": 1,
+  "newdata": true,
+  "lastrunstatus": "success",
+  "lastsuccess": "Fri Apr 11 2014 10:14:47 GMT+0000 (UTC)",
+  "nextrun": "Thu May 01 2014 00:00:00 GMT+0000 (UTC)",
+  "results": {
+    "collection1": [
+      {
+        "School": {
+          "href": "http://www.hillcrestpta.org/",
+          "text": "HILLCREST ELEMENTARY SCHOOL"
+        },
+        "Address": "30 Marguerite Drive, 94618"
+      },
+      {
+        "School": {
+          "href": "http://ousdes1.ousd.k12.ca.us/hoover",
+          "text": "HOOVER ELEMENTARY SCHOOL"
+        },
+        "Address": "890 Brockhurst Street, 94608"
+      },
+      {
+        "School": {
+          "href": "http://ousdes1.ousd.k12.ca.us/horacemann",
+          "text": "HORACE MANN ELEMENTARY SCHOOL"
+        },
+        "Address": "5222 Ygnacio Avenue, 94601"
+      },
+      {
+        "School": {
+          "href": "http://www.ousd.k12.ca.us/site/Default.aspx?PageID=401",
+          "text": "HOWARD ELEMENTARY SCHOOL"
+        },
+        "Address": "8755 Fontaine Street, 94605"
+      },
+      {
+        "School": {
+          "href": "http://www.ousd.k12.ca.us/site/Default.aspx?PageID=402",
+          "text": "INTERNATIONAL COMMUNITY SCHOOL"
+        },
+        "Address": "2825 International Blvd, 94601"
+      },
+      {
+        "School": {
+          "href": "http://www.joaquinmiller.org/",
+          "text": "JOAQUIN MILLER ELEMENTARY SCHOOL"
+        },
+        "Address": "5525 Ascot Drive, 94611"
+      },
+      {
+        "School": {
+          "href": "http://www.kaiserelementary.org/",
+          "text": "KAISER ELEMENTARY SCHOOL"
+        },
+        "Address": "25 South Hill Court, 94618"
+      },
+      {
+        "School": {
+          "href": "http://laescuelita.ousd.k12.ca.us",
+          "text": "LA ESCUELITA ELEMENTARY SCHOOL"
+        },
+        "Address": "1050 Second Avenue, 94606"
+      },
+      {
+        "School": {
+          "href": "http://pantherpaws.org/",
+          "text": "LAFAYETTE ELEMENTARY SCHOOL"
+        },
+        "Address": "1700 Market Street, 94607"
+      },
+      {
+        "School": {
+          "href": "http://ousdes2.ousd.k12.ca.us/laurel",
+          "text": "LAUREL ELEMENTARY SCHOOL"
+        },
+        "Address": "3750 Brown Avenue, 94619"
+      },
+      {
+        "School": {
+          "href": "http://www.ousd.k12.ca.us/site/Default.aspx?PageID=412",
+          "text": "LINCOLN ELEMENTARY SCHOOL"
+        },
+        "Address": "225 11th Street, 94607"
+      },
+      {
+        "School": {
+          "href": "http://ousdes2.ousd.k12.ca.us/manzanitacommunity",
+          "text": "MANZANITA COMMUNITY SCHOOL"
+        },
+        "Address": "2409 East 27th Street, 94601"
+      },
+      {
+        "School": {
+          "href": "http://ousdes2.ousd.k12.ca.us/manzanitaseed",
+          "text": "MANZANITA SEED"
+        },
+        "Address": "2409 East 27th Street, 94601"
+      },
+      {
+        "School": {
+          "href": "http://ousdes2.ousd.k12.ca.us/markham",
+          "text": "MARKHAM ELEMENTARY SCHOOL"
+        },
+        "Address": "7220 Krause Avenue, 94605"
+      },
+      {
+        "School": {
+          "href": "http://ousdes2.ousd.k12.ca.us/mlk",
+          "text": "MARTIN LUTHER KING, JR. ELEMENTARY SCHOOL"
+        },
+        "Address": "960 10th Street, 94607"
+      },
+      {
+        "School": {
+          "href": "http://melroseleadership.ousd.k12.ca.us/",
+          "text": "MELROSE LEADERSHIP ACADEMY"
+        },
+        "Address": "4730 Fleming Avenue, 94619"
+      },
+      {
+        "School": {
+          "href": "http://www.montclairelementaryschool.org/",
+          "text": "MONTCLAIR ELEMENTARY"
+        },
+        "Address": "1757 Mountain Boulevard, 94611"
+      },
+      {
+        "School": {
+          "href": "http://ousdes2.ousd.k12.ca.us/newhighland",
+          "text": "NEW HIGHLAND ACADEMY"
+        },
+        "Address": "8521 A Street, 94621"
+      },
+      {
+        "School": {
+          "href": "http://ousdes2.ousd.k12.ca.us/parker",
+          "text": "PARKER ELEMENTARY SCHOOL"
+        },
+        "Address": "7929 Ney Avenue, 94605"
+      },
+      {
+        "School": {
+          "href": "http://www.peraltaschool.org/",
+          "text": "PERALTA ELEMENTARY SCHOOL"
+        },
+        "Address": "460 63rd Street, 94609"
+      },
+      {
+        "School": {
+          "href": "http://ousdes2.ousd.k12.ca.us/piedmontavenue",
+          "text": "PIEDMONT AVENUE ELEMENTARY SCHOOL"
+        },
+        "Address": "4314 Piedmont Avenue, 94611"
+      },
+      {
+        "School": {
+          "href": "http://ousdes2.ousd.k12.ca.us/placeatprescott",
+          "text": "PLACE @ Prescott"
+        },
+        "Address": "920 Campbell Street, 94607"
+      },
+      {
+        "School": {
+          "href": "http://ousdes2.ousd.k12.ca.us/reach",
+          "text": "REACH ACADEMY"
+        },
+        "Address": "9860 Sunnyside Street, 94603"
+      },
+      {
+        "School": {
+          "href": "http://www.ousd.k12.ca.us/site/Default.aspx?PageID=425",
+          "text": "REDWOOD HEIGHTS ELEMENTARY SCHOOL"
+        },
+        "Address": "4401 39th Avenue, 94619"
+      },
+      {
+        "School": {
+          "href": "http://ousdes2.ousd.k12.ca.us/rise",
+          "text": "RISE COMMUNITY SCHOOL"
+        },
+        "Address": "8521 A Street, 94621"
+      }
+    ]
+  }
+}
