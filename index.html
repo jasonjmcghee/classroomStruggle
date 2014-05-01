@@ -3,6 +3,7 @@
   <title> Data Visualization </title>
   <script src="http://d3js.org/d3.v3.min.js"></script>
   <script src="test.js"></script>
+  <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1-rc2/jquery.min.js"></script>
   <style>
 
   body {
@@ -12,11 +13,12 @@
 
   p {
     margin-top: 0px;
-    float: left;
-  }
-
-  #keyname {
     float: center;
+  }
+  
+  div {
+    width: 350px;
+    float: left;
   }
 
 
@@ -24,7 +26,13 @@
 </head>
 
 <body>
-<p>Name of School: &nbsp;&nbsp;&nbsp;&nbsp;</p> <p id="keyname"> <i>Hover over a school to see its name!</i></p>
+  <div>
+  <p>Name of School: &nbsp;&nbsp;&nbsp;&nbsp; </p><p id="keyname"><i>Hover over a school to see its name! </i></p>
+  <br />
+  <p> Average Class Size 2013: &nbsp;&nbsp;&nbsp;&nbsp; </p><p id="keyname1"></p>
+  <p> Average Class Size 2014: &nbsp;&nbsp;&nbsp;&nbsp;</p> <p id="keyname2"></p>
+  <p> Percent Change: &nbsp;&nbsp;&nbsp;&nbsp;</p> <p id="keyname3"></p>
+  </div>
   <script type="text/javascript">
     create();
   </script>
