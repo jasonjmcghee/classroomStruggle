@@ -14,6 +14,10 @@ function test(key) {
   return "hello";
 }
 
+function updateName(key) {
+  $("#keyname").text(key);
+}
+
 function create() {
   var svgContainer = 
     d3.select("body")
@@ -55,8 +59,7 @@ function create() {
         .attr("cy", y)
         .attr("r", oldSize)
         .attr("fill-opacity", 0.8)
-        .attr("name", key)
-        .attr("onmouseover", "document.getElementById(\"keyname\").textContent = this.attributes['name'].textContent")
+        .attr("onmouseover", "updateName(\""+key+"\")" )
         .style("fill", "beige")
         .append("svg:title").text("hello");
 
@@ -73,8 +76,7 @@ function create() {
         .attr("cy", y)
         .attr("r", newSize)
         .attr("fill-opacity", 0.8)
-        .attr("name", key)
-        .attr("onmouseover", "document.getElementById(\"keyname\").textContent = this.attributes['name'].textContent")
+        .attr("onmouseover", "updateName(\""+key+"\")")
         .style("fill", "beige");
       }
 
