@@ -31,7 +31,7 @@ function percentChange(newSize, oldSize) {
 	var change;
 	var newOverOld = ((newSize*100)/(oldSize));
 	var percentOfOld = parseFloat(toTwoDecimals(newOverOld));
-	change = percentOfOld - 100;
+	change = percentOfOld - 100.00;
 	sign = change < 0 ? "-" : "+";
 	return sign+Math.abs(change)+"%";
 }
