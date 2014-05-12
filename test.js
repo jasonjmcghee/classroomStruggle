@@ -18,7 +18,18 @@ function updateName(key, newSize, oldSize) {
   $("#keyname").text(key);
   $("#keyname1").text(oldSize);
   $("#keyname2").text(newSize);
-  $("#keyname3").text((Math.floor((newSize/oldSize)*100))+"%");
+  $("#keyname3").text(percentChange(newSize, oldSize));
+}
+
+function percentChange(newSize, oldSize) {
+	
+	var sign;
+	var change;
+	var newOverOld = (newSize/oldSize);
+	var percentOfOld = (Math.floor(newOverOld*100));
+	change = 100 - percentOfOld;
+	sign = change < 0 ? "-" : "+";
+	return sign+change+"%"	
 }
 
 function shade(diff) {
