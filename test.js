@@ -25,8 +25,8 @@ function percentChange(newSize, oldSize) {
 	
 	var sign;
 	var change;
-	var newOverOld = ((newSize*10000)/(oldSize));
-	var percentOfOld = Math.round(newOverOld)/100;
+	var newOverOld = ((newSize*100)/(oldSize));
+	var percentOfOld = parseFloat(Math.round(newOverOld + "e+2") + "e-2");
 	change = percentOfOld - 100;
 	sign = change < 0 ? "-" : "+";
 	return sign+Math.abs(change)+"%";
