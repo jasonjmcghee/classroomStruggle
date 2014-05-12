@@ -28,8 +28,8 @@ function percentChange(newSize, oldSize) {
 	var newOverOld = (newSize/oldSize);
 	var percentOfOld = (Math.floor(newOverOld*100));
 	change = 100 - percentOfOld;
-	sign = change < 0 ? "-" : "+";
-	return sign+change+"%"	
+	sign = change < 0 ? "+" : "-";
+	return sign+Math.abs(change)+"%";
 }
 
 function shade(diff) {
