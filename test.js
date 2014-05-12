@@ -21,12 +21,16 @@ function updateName(key, newSize, oldSize) {
   $("#keyname3").text(percentChange(newSize, oldSize));
 }
 
+function toTwoDecimals(num) {
+	return +(Math.round(num + "e+2") + "e-2");
+}
+
 function percentChange(newSize, oldSize) {
 	
 	var sign;
 	var change;
 	var newOverOld = ((newSize*100)/(oldSize));
-	var percentOfOld = parseFloat(Math.round(newOverOld + "e+2") + "e-2");
+	var percentOfOld = parseFloat(toTwoDecimals(newOverOld));
 	change = percentOfOld - 100;
 	sign = change < 0 ? "-" : "+";
 	return sign+Math.abs(change)+"%";
