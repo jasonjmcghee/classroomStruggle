@@ -1,4 +1,4 @@
-gettingStartedWithDataViz
+Classroom Struggle
 =========================
 
 I'm currently working with a campaign called Classroom Struggle, a group attempting to help reduce 
@@ -14,4 +14,4 @@ a visualization so people could quickly look and understand the staggering probl
 OUSD. Hopefully I'll be able to improve my abilities in data visualization enough so that I may have
 an impact on the campaign.
 
--- Jason
+\- Jason
