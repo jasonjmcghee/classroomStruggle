@@ -11,7 +11,4 @@ My job, along with a few other students that attend UCB, is to do research in or
 as we can about the current state of OUSD, including all of the previously mentioned metrics. During
 that process, I thought it would be a great supplement to the statistics and other research to create
 a visualization so people could quickly look and understand the staggering problems which reside in the
-OUSD. Hopefully I'll be able to improve my abilities in data visualization enough so that I may have
-an impact on the campaign.
-
-\- Jason
+OUSD. 
